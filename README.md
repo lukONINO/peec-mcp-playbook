@@ -69,7 +69,7 @@ Skills are plain folders. To install:
 
 **Cowork:** drop into your Cowork skills folder (path varies by install — check `~/Library/Application Support/Claude/...` on macOS).
 
-**Prerequisite:** the Peec.ai MCP server must be connected to your Claude runtime. See [peec.ai docs](https://peec.ai) for the MCP install. Your Peec account needs at least one active project with brands and prompts configured.
+**Prerequisite:** the Peec.ai MCP server must be connected to your Claude runtime. See [peec.ai docs](https://docs.peec.ai/mcp/introduction) for the MCP install. Your Peec account needs at least one active project with brands and prompts configured.
 
 ### Heads-up: the MCP prefix varies per install
 
